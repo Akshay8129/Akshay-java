@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class nameconcat
+{
+	public static void main(String args[])
+	{
+	String x,y,z;
+	Scanner nc=new Scanner(System.in);
+	Sysytem.out.println("enter your first name");
+	x=nc.nextInt();
+	System.out.println("enter the last name");
+	y=nm.nextInt();
+	z=x+y;
+	System.out.println("the name is" +z);
+	}
+}
