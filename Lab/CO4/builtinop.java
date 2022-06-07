@@ -3,10 +3,11 @@ class builtinop{
    public static void main(String args[]){  
 int i,n=3;
       ArrayList<String> alist=new ArrayList<String>();
-Scanner sc= new Scanner(System.in);  
+Scanner sc= new Scanner(System.in); 
+System.out.println("enter the   string\n"); 
 for(i=0;i <= n;i++)
 {  
-System.out.println("enter the   string\n");
+
       alist.add(sc.next());
       
  } 
