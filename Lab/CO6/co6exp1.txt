@@ -1,0 +1,1 @@
+this is experiment1 of c06.this is my file content to be written to the text file
